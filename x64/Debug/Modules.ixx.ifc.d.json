@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kola\\source\\repos\\modules_dz\\modules.ixx",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "point",
+                "BMI": "C:\\Users\\Kola\\source\\repos\\Modules_dz\\x64\\Debug\\Point.ixx.ifc"
+            },
+            {
+                "Name": "sphere",
+                "BMI": "C:\\Users\\Kola\\source\\repos\\Modules_dz\\x64\\Debug\\Sphere.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\iostream",
+                "BMI": "C:\\Users\\Kola\\source\\repos\\Modules_dz\\x64\\Debug\\iostream_OBTPU82OJTQ3UE14.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\string",
+                "BMI": "C:\\Users\\Kola\\source\\repos\\Modules_dz\\x64\\Debug\\string_G2RL5U85SPZN5M9Q.ifc"
+            }
+        ]
+    }
+}

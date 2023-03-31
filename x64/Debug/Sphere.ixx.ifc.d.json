@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kola\\source\\repos\\modules_dz\\sphere.ixx",
+        "ProvidedModule": "sphere",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "point",
+                "BMI": "C:\\Users\\Kola\\source\\repos\\Modules_dz\\x64\\Debug\\Point.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

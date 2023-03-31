@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kola\\source\\repos\\modules_dz\\sphere.ixx",
+        "ProvidedModule": "sphere",
+        "ImportedModules": [
+            "point"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
